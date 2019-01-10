@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: Welcome
   text: >-
-    Helicopter Seed is the home of the comics Galvanizing Goldfinch and
+    Helicopter Seed is home to comics Galvanizing Goldfinch and
     SSS Samara, along with related art. The website is currently under 
     construction, so please ignore the man behind the curtain.
 intro:

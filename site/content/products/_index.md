@@ -4,7 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 intro:
   blurbs:
-    - image: img/illustrations-coffee.svg
+    - image: /img/illustrations-coffee.svg
       text: >
         Galvanizing Goldfinch is a superhero story taking place in Seattle. 
         Combining local Native American folklore, Seattle teriyaki, and pulse-pounding

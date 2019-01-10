@@ -1,35 +1,31 @@
 ---
 title: Helicopter Seed Comics
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Hand-drawn comics with a software engineer's touch
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Welcome
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Helicopter Seed is the home of the comics Galvanizing Goldfinch and
+    SSS Samara, along with related art. The website is currently under 
+    construction, so please ignore the man behind the curtain.
 intro:
-  heading: What we offer
+  heading: Ongoing comics
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Helicopter Seed isn't defined by a single genre. I believe comics are
+    the best medium to tell my stories and share my art, so you can expect
+    a variety genres and art styles to appear here.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      Galvanizing Goldfinch is a superhero story taking place in Seattle. 
+      Combining local Native American folklore, Seattle teriyaki, and pulse-pounding
+      adventure, this comic is an exciting love-letter to the Pacific Northwest.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      SSS Samara is a science fiction horror story set in a space station on
+      the fringes of the galactic frontier. Come for the exciting pioneer lifestyle
+      and the fish-out-of-water aliens, stay because the eldritch abomination from
+      another dimension won't let you leave!
 goals:
   heading: My Goals
   text: >-

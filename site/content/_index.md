@@ -1,7 +1,7 @@
 ---
 title: Helicopter Seed Comics
 subtitle: Hand-drawn comics with a software engineer's touch
-image: /img/home-jumbotron.jpg
+image: /img/CouchZoePen.svg
 blurb:
   heading: Welcome
   text: >-

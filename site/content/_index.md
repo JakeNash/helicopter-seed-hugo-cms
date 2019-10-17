@@ -14,12 +14,12 @@ intro:
     the best medium to tell my stories and share my art, so you can expect
     a variety genres and art styles to appear here.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/LeapingMannequinCopic.svg
     text: >-
       Galvanizing Goldfinch is a superhero story taking place in Seattle. 
       Combining local Native American folklore, Seattle teriyaki, and pulse-pounding
       adventure, this comic is an exciting love-letter to the Pacific Northwest.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/MercuryMannequinCopic.svg
     text: >-
       SSS Samara is a science fiction horror story set in a space station on
       the fringes of the galactic frontier. Come for the exciting pioneer lifestyle

@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/hsc-logo-hand-drawn.svg"
+logo: "/img/HSCLogo.svg"
 contact_entries:
   - heading: Email
     text: "helicopterseedcomics at gmail dot com"

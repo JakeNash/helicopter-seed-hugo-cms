@@ -5,8 +5,7 @@ blurb:
   heading: Welcome
   text: >-
     Helicopter Seed is home to comics Galvanizing Goldfinch and
-    SOS Samara, along with related art. The website is currently under 
-    construction, so please ignore the man behind the curtain.
+    SOS Samara, along with related art.
 intro:
   heading: Ongoing comics
   text: >-

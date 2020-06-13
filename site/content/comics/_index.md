@@ -1,6 +1,6 @@
 ---
 title: Comics
-type: products
+type: comics
 image: /img/products-jumbotron.jpg
 intro:
   blurbs:

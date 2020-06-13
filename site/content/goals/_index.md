@@ -14,12 +14,12 @@ goals:
       pencilling, inking, coloring, and lettering all the art myself.
       I hope to find my own style, connect with my readers on an 
       emotional level, and inspire others to do the same.
-    imageUrl: "/img/LeapingMannequinCopic.jpg"
+    imageUrl: "/img/LeapingMannequinCopic.svg"
   - heading: "Learning"
     text: >
       The goal is to learn more about myself and the world around me.
       I hope that getting my ideas down on the page, through story-
       telling and artistic expression, will allow me to explore them
       thoroughly and will lead to deeper connections.
-    imageUrl: "/img/MercuryMannequinCopic.jpg"
+    imageUrl: "/img/MercuryMannequinCopic.svg"
 ---

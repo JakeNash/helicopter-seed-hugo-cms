@@ -14,7 +14,7 @@ intro:
     the best medium to tell my stories and share my art, so you can expect
     a variety genres and art styles to appear here.
 comics:
-  - image: img/LeapingMannequinCopic.svg
+  - image: /img/LeapingMannequinCopic.svg
     text: >-
       Galvanizing Goldfinch is a superhero story taking place in Seattle. 
       Combining local Native American folklore, Seattle teriyaki, and pulse-pounding

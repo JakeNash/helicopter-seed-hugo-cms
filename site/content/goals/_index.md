@@ -1,6 +1,6 @@
 ---
 title: "Goals"
-image: /img/about-jumbotron.jpg
+image: /img/CouchZoePen.svg
 goals:
   - heading: "Writing Comics"
     text: >

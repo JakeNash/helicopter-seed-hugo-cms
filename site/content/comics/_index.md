@@ -1,7 +1,7 @@
 ---
 title: Comics
 type: comics
-image: /img/products-jumbotron.jpg
+image: /img/CouchZoePen.svg
 intro:
   blurbs:
     - image: /img/LeapingMannequinCopic.svg
@@ -11,7 +11,7 @@ intro:
         adventure, this comic is an exciting love-letter to the Pacific Northwest.
     - image: /img/MercuryMannequinCopic.svg
       text: >
-        SSS Samara is a science fiction horror story set in a space station on
+        SOS Samara is a science fiction horror story set in a space station on
         the fringes of the galactic frontier. Come for the exciting pioneer lifestyle
         and the fish-out-of-water aliens, stay because the eldritch abomination from
         another dimension won't let you leave!

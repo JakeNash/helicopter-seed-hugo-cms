@@ -13,7 +13,7 @@ intro:
     Helicopter Seed isn't defined by a single genre. I believe comics are
     the best medium to tell my stories and share my art, so you can expect
     a variety genres and art styles to appear here.
-products:
+comics:
   - image: img/LeapingMannequinCopic.svg
     text: >-
       Galvanizing Goldfinch is a superhero story taking place in Seattle. 

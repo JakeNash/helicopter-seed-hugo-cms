@@ -20,6 +20,28 @@ intro:
       Helicopter Seed isn't defined by a single genre. I believe comics are
       the best medium to tell my stories and share my art, so you can expect
       a variety genres and art styles to appear here.
+main:
+  heading: Test
+  description: >
+    Test
+  image1:
+    alt: Test
+    image: /img/products-grid3.jpg
+testimonials:
+  - author: Test
+    quote: >-
+      Test
+full_image: /img/products-full-width.jpg
+pricing:
+  heading: Test
+  description: >-
+    Test
+  plans:
+   - description: Test
+     items:
+       - Test
+     plan: Test
+     price: '50'
 ---
 
 
